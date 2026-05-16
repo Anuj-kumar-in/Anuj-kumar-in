@@ -81,13 +81,15 @@ Passionate about contributing to open-source projects and building solutions tha
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj-kumar-in&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-kumar-in&layout=compact&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Anuj-kumar-in&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Anuj-kumar-in&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anuj-kumar-in&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Anuj-kumar-in&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🔗 Connect With Me
 
