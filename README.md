@@ -32,33 +32,16 @@ A passionate **Open Source Contributor** and full-stack developer with expertise
 
 ## 📌 Featured Projects
 
-1. **[Draftdeckai](https://github.com/Anuj-kumar-in/Draftdeckai)** 
-   - 100% open-source, AI-powered document creation platform for professionals
-   - Create stunning resumes, presentations, and CVs with AI assistance
-   - Community-driven development
 
-2. **[Cash.io](https://github.com/Anuj-kumar-in/Cash.io)** (TypeScript)
+1. **[Cash.io](https://github.com/Anuj-kumar-in/Cash.io)** (TypeScript)
    - Seamless decentralized payment system
    - Web3-powered transaction platform
 
-3. **[GitGenie](https://github.com/Anuj-kumar-in/GitGenie)**
-   - Intelligent CLI tool for simplified Git workflows
-   - AI-generated commit messages using Google Gemini
-   - Automates common Git operations
 
-4. **[Xaytheon](https://github.com/Anuj-kumar-in/xaytheon)**
-   - GitHub analytics and open-source discovery platform
-   - Track contributions and discover trending projects
-   - Enhanced visualization and community insights
-
-5. **[Staking-Defi-App](https://github.com/Anuj-kumar-in/Staking-Defi-App)** (JavaScript)
-   - First DeFi web application
-   - Staking and yield farming functionality
-
-6. **[JobFy](https://github.com/Anuj-kumar-in/JobFy)** (JavaScript)
+2. **[JobFy](https://github.com/Anuj-kumar-in/JobFy)** (JavaScript)
    - Job platform application
    - Connecting professionals with opportunities
-
+   - integrated Dual LLM models with premium UI/UX
 ---
 
 ## 🌱 Currently Learning
