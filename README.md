@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Anuj Kumar
 
-A passionate full-stack developer with expertise in **Web3, Blockchain, and Full-Stack Web Development**. I build innovative decentralized applications and modern web solutions. Enthusiastic about learning new technologies and contributing to open-source projects.
+A passionate **Open Source Contributor** and full-stack developer with expertise in **Web3, Blockchain, and Full-Stack Web Development**. Currently learning **Big Data Engineering** and **Data Analysis**. Enthusiastic about building innovative decentralized applications, contributing to open-source projects, and exploring emerging technologies.
 
 ---
 
@@ -8,9 +8,11 @@ A passionate full-stack developer with expertise in **Web3, Blockchain, and Full
 
 - 💻 Full-stack developer specializing in **Blockchain & Web3 technologies**
 - 🔗 Skilled in **Solidity, JavaScript, TypeScript, Python**
+- 📊 Learning **Big Data Engineering** and **Data Analysis**
 - 🌐 Building decentralized applications and modern web platforms
-- 📚 Continuous learner passionate about emerging technologies
-- 🤝 Open to collaborations on exciting Web3 and full-stack projects
+- 🤝 Active **Open Source Contributor** - passionate about community-driven development
+- 📚 Continuous learner enthusiastic about emerging technologies
+- 🎯 Open to collaborations on exciting Web3, full-stack, and data engineering projects
 
 ---
 
@@ -21,6 +23,8 @@ A passionate full-stack developer with expertise in **Web3, Blockchain, and Full
 **Frontend:** React, Svelte, HTML/CSS
 
 **Backend & Blockchain:** Node.js, Ethereum, Smart Contracts
+
+**Big Data & Analytics:** Learning Spark, Hadoop, Data Processing
 
 **Other Tools:** Git, CLI, Web3.js
 
@@ -57,13 +61,23 @@ A passionate full-stack developer with expertise in **Web3, Blockchain, and Full
 
 ---
 
-## 🌱 Learning & Interests
+## 🌱 Currently Learning
 
+- **Big Data Engineering** - Distributed systems, data processing pipelines
+- **Data Analysis** - Statistical analysis, data visualization, insights generation
 - Advanced Web3 & Blockchain Development
-- Full-Stack Web Development
-- Decentralized Finance (DeFi)
 - Smart Contract Security
-- Open-Source Contributions
+- DeFi Protocols & Architecture
+
+---
+
+## 🤝 Open Source Contributions
+
+Passionate about contributing to open-source projects and building solutions that benefit the community. I actively:
+- Contribute to blockchain and Web3 projects
+- Participate in hackathons and developer challenges
+- Build and maintain open-source tools and libraries
+- Help other developers through collaborative development
 
 ---
 
@@ -85,8 +99,9 @@ A passionate full-stack developer with expertise in **Web3, Blockchain, and Full
 ## ⚡ Fun Facts
 
 - 🚀 Passionate about decentralized technologies and their potential to reshape the web
-- 💡 Always excited to explore innovative solutions
-- 🎯 Committed to building products that matter
+- 📊 Excited about turning raw data into actionable insights
+- 💡 Always exploring innovative solutions at the intersection of Web3 and Big Data
+- 🎯 Committed to building products that matter and contributing to the open-source community
 
 ---
 
