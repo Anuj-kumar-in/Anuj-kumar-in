@@ -77,7 +77,7 @@ Passionate about contributing to open-source projects and building solutions tha
 ## 🔗 Connect With Me
 
 - **GitHub:** [@Anuj-kumar-in](https://github.com/Anuj-kumar-in)
-- **Email:** [Get in touch via GitHub](https://github.com/Anuj-kumar-in)
+- **Email:** ak2305493@gmail.com
 
 ---
 
