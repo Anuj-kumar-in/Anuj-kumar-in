@@ -1,8 +1,19 @@
+<div align="center">
+  <img src="https://github.com/Anuj-kumar-in/Anuj-kumar-in/blob/main/aba214a5-944b-4d75-810f-2670365e8008.png?raw=true" alt="Anuj Kumar Profile Banner" width="100%">
+</div>
+
+
 # Hi there 👋 I'm Anuj Kumar
 
 A passionate **Open Source Contributor** and full-stack developer with expertise in **Web3, Blockchain, and Full-Stack Web Development**. Currently learning **Big Data Engineering** and **Data Analysis**. Enthusiastic about building innovative decentralized applications, contributing to open-source projects, and exploring emerging technologies.
 
 ---
+
+
+📄 **[View My Resume](https://drive.google.com/file/d/1VK6xN1NweaaeM3sJPDbEjJdth32fGImI/view?usp=sharing)**
+
+
+
 
 ## 🚀 About Me
 
